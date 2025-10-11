@@ -3,6 +3,10 @@ body {
     color: #303840;
 }
 
+.square-photo-size {
+    width: 50%;
+}
+
 /* <weight>: Use a value from 100 to 900
    <uniquifier>: Use a unique and descriptive class name */
 
